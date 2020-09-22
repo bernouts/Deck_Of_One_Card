@@ -2,10 +2,10 @@
 //  UIViewControllerExtension.swift
 //  DeckOfOneCard
 //
-//  Created by Jared Warren on 12/18/19.
-//  Copyright © 2019 Warren. All rights reserved.
+//  Created by Brenden Smith on 9/22/20.
 //
 
+import Foundation
 import UIKit
 
 // Recommend creating a snippet.
@@ -20,3 +20,4 @@ extension UIViewController {
         present(alertController, animated: true)
     }
 }
+
